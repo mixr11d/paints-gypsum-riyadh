@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gypsum-paints-riyadh.com/sitemap.xml
