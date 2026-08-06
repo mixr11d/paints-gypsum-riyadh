@@ -5,10 +5,10 @@
 // ==========================================================================
 // 1. CONFIGURATION: GOOGLE ADS METRICS & CLIENT PHONE
 // ==========================================================================
-const GOOGLE_ADS_ID = ''; // ضع معرّف الإعلانات هنا مثل: 'AW-123456789'
-const CONVERSION_LABEL_CALL = ''; // ملصق تحويل الاتصال
-const CONVERSION_LABEL_WHATSAPP = ''; // ملصق تحويل الواتساب
-const CONVERSION_LABEL_FORM = ''; // ملصق تحويل النموذج
+const GOOGLE_ADS_ID = 'AW-18373155241'; // ضع معرّف الإعلانات هنا مثل: 'AW-123456789'
+const CONVERSION_LABEL_CALL = 'Cw5OCJyMqd0cEKmzgLlE'; // ملصق تحويل الاتصال
+const CONVERSION_LABEL_WHATSAPP = 'mvLUCJ-Mqd0cEKmzgLlE'; // ملصق تحويل الواتساب
+const CONVERSION_LABEL_FORM = 'g0TMCP_Jlt0cEKmzgLlE'; // ملصق تحويل النموذج
 
 const CLIENT_PHONE = '0554578033';
 const CLIENT_WHATSAPP_NUM = '966554578033';
